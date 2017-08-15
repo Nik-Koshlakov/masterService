@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterService.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterService_main.iml" group="MasterService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterService_test.iml" group="MasterService" />
+    </modules>
+  </component>
+</project>
